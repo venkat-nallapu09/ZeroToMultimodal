@@ -9,7 +9,7 @@
 ![Production](https://img.shields.io/badge/Production-Docker%20%7C%20FastAPI%20%7C%20vLLM-success?style=flat-square)
 
 
-ZeroToMultimodal is a **21-day, from-scratch build log** that goes end-to-end from a raw Vision Transformer to a **production-ready multimodal agent**.
+ZeroToMultimodal is a ** from-scratch build log** that goes end-to-end from a raw Vision Transformer to a **production-ready multimodal agent**.
 
 This repo is not a tutorial.
 It is a **proof of work**.
