@@ -45,10 +45,10 @@ result = pipeline.process(text="...", image="...", audio="...")
 ```
 
 ## Usage
-[Add specific usage patterns]
+
 
 ## Contributing
 Contributions are welcome. Please submit pull requests with clear descriptions.
 
 ## License
-[Specify your license]
+[MIT]
